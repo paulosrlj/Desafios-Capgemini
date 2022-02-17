@@ -1,7 +1,6 @@
 package questao2;
 
 import org.junit.Test;
-import questao1.Questao1;
 
 import static org.junit.Assert.assertEquals;
 
